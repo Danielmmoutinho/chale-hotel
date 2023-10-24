@@ -25,6 +25,7 @@ body {
 
 #area-logo {
     background: url(../imagens/topo-imagem-principal.png) no-repeat;
+    background-size: cover;
     width: 100%;
     height: 250px;
     position: absolute;
